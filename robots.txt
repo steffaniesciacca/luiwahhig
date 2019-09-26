@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geenahchu.chicshinecleaning.com/sitemap.xml
